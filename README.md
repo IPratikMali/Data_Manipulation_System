@@ -1,8 +1,8 @@
 # Data_Manipulation_System
 
-Data Manipulation System is GUI- based database operations performing system , by using this , we can store data into database directly from web-browser and we can also manage our data by performing CRUD operations.
-(This is MAVEN project)
-(Jre 1.8)
+"Data Manipulation System" is a web-based application that allows users to easily and efficiently save data from the web to a database, with minimal manual intervention.
+The system is designed to perform CRUD (Create, Read, Update, and Delete) operations on the data in the database, providing users with a simple and intuitive interface for managing their data.
+It allows us to save time by easily collecting and manage large amounts of data from the web.
 
 
 
